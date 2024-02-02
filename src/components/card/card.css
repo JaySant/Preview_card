@@ -1,0 +1,15 @@
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    max-width: 610px;
+}
+
+.container-text {
+    padding: 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 0 15px 15px 0;
+}

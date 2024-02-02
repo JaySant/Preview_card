@@ -1,0 +1,16 @@
+.button {
+    background-color: hsl(158, 36%, 37%);
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button img {
+    padding-right: 10px;
+}

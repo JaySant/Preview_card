@@ -1,0 +1,30 @@
+.div-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.body-p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+    line-height: 1.7;
+    padding: 15px 0;
+}
+
+.body-price {
+    font-family: "Fraunces", sans-serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 35px;
+
+}
+
+.body-price-discount {
+    text-decoration: line-through;
+    font-family: "Montserrat", sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+    padding-right: 35px;
+}
